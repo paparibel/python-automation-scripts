@@ -26,4 +26,4 @@ A public collection of Python scripts created for automating small but useful ta
 This repository is meant to present my scripting skills, automation mindset and structured code writing for technical recruiters and employers.
 
 ## 📫 Contact
-Feel free to connect via [LinkedIn](https://www.linkedin.com/in/micha%C5%82-cyba/](https://www.linkedin.com/in/micha%C5%82-cyba-076789177/)) or reach out for collaborations!
+Feel free to connect via [LinkedIn](https://www.linkedin.com/in/micha%C5%82-cyba-076789177/) or reach out for collaborations!
